@@ -1,0 +1,9 @@
+---
+title: "BMI_Documentation"
+author: "K.E.S. Peters"
+date: "29 januari 2016"
+output: html_document
+---
+
+Weight issues are rising worldwide. People increasingly start to take measurements of their own physique and health, but one nifty graph to capture your length/weight ratio says more over your current situation than a thousand measurements!
+Use the sliders below to see where you stand on the BMI index.
